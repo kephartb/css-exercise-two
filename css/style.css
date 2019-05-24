@@ -11,8 +11,12 @@ nav {
   float: left;
   position: fixed;
   width: 100%;
-  text-decoration: none;
 }
+
+li:hover {
+  background-color: green;
+}
+
 h1 {
   font-size: 30px;
   font-weight: bold;
